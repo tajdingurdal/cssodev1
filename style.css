@@ -1,0 +1,98 @@
+#name {
+    color: #EB5353;
+    font-family: 'Oleo Script Swash Caps', cursive;
+    background-color: antiquewhite;
+
+}
+
+.lists-head {}
+
+#about-us {
+    background-color: antiquewhite;
+}
+
+.video {
+    width: 600px;
+    height: 200px;
+    padding: 10px;
+    position: relative;
+    margin: auto;
+}
+
+#akbank {
+    color: white;
+    font-weight: bold;
+    line-height: 60px;
+    letter-spacing: 60px;
+    text-align: center;
+    background-color: red;
+    line-height: 60px;
+}
+
+.nav {
+    display: flex;
+    justify-content: space-around;
+    width: 300px;
+    margin-left: 880px;
+    padding: 5px;
+    font-size: 14px;
+}
+
+#p {
+    color: crimson;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+
+}
+
+.hakkındaresim {
+    width: 450px;
+    float: left;
+    padding: 0 10px 10px 0;
+
+}
+
+#hakkımızda {
+    background-color: lightgrey;
+
+}
+
+#iletisim {
+    background-color: lightgrey;
+
+}
+#sıkcasorular {
+    background-color: lightgrey;
+
+}
+
+#kadın1 {
+    width: 367px;
+    float: left;
+    padding: 0 50px 10px 0;
+    position: absolute;
+
+    left: 5px;
+    top: 146px;
+    height: unset;
+}
+
+#dortkafa {
+    width: 367px;
+    float: left;
+    padding: 0 10px 60px 0;
+    position: absolute;
+
+    left: 5px;
+    top: 340px;
+}
+
+#serenay {
+    width: 310px;
+    float: right;
+    padding: 0 10px 60px 0;
+    position: absolute;
+
+    right: 1px;
+    top: 150px;
+}
